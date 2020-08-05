@@ -38,11 +38,12 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 <br />
-[<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1.png" />]
-[<img align="left" alt="Adobe After Effects" width="26px" src="https://seeklogo.com/images/A/after-effects-cc-logo-BCC55BAFF7-seeklogo.com.png" />]
-[<img align="left" alt="Adobe Photoshop" width="26px" src="https://seeklogo.com/images/A/adobe-photoshop-express-logo-CB0F9C1CDD-seeklogo.com.png" />]
-[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />]
-[<img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />]
+
+<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1.png" />
+<img align="left" alt="Adobe After Effects" width="26px" src="https://seeklogo.com/images/A/after-effects-cc-logo-BCC55BAFF7-seeklogo.com.png" />
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://seeklogo.com/images/A/adobe-photoshop-express-logo-CB0F9C1CDD-seeklogo.com.png" />
+<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
+<img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 
 
 <br />
