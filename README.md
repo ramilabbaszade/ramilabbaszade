@@ -29,8 +29,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />]
-<img align="left" alt="Bootstrap" width="26px" src="https://listimg.pinclipart.com/picdir/s/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" />
+<img align="left" alt="Express.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://i.dlpng.com/static/png/472307_preview.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -43,7 +43,7 @@
     <img align="left" alt="Adobe After Effects" width="26px" src="https://seeklogo.com/images/A/after-effects-cc-logo-BCC55BAFF7-seeklogo.com.png" />
     <img align="left" alt="Adobe Photoshop" width="26px" src="https://seeklogo.com/images/A/adobe-photoshop-express-logo-CB0F9C1CDD-seeklogo.com.png" />
     <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
-    <img align="left" alt="Figma" width="26px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" />
+    <img align="left" alt="Figma" width="26px" src="https://pbs.twimg.com/profile_images/1184135296566251520/TWYoDqir_400x400.png" />
 </div>
 
 <br />
