@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to runing and play guitar
+- ⚡ Fun fact: I love runing and playing guitar
 
 ### Connect with me:
 
