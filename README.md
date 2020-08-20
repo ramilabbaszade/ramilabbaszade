@@ -42,7 +42,6 @@
 
 <div align="left" >
     <img align="left" alt="Adobe Premiere Pro" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1.png" />
-    <img align="left" alt="Adobe After Effects" width="26px" src="https://seeklogo.com/images/A/after-effects-cc-logo-BCC55BAFF7-seeklogo.com.png" />
     <img align="left" alt="Adobe Photoshop" width="26px" src="https://seeklogo.com/images/A/adobe-photoshop-express-logo-CB0F9C1CDD-seeklogo.com.png" />
     <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
     <img align="left" alt="Figma" width="26px" src="https://pbs.twimg.com/profile_images/1184135296566251520/TWYoDqir_400x400.png" />
@@ -69,5 +68,5 @@
 [facebook]: https://www.facebook.com/ramil.abbaszade.923
 [instagram]: https://instagram.com/ramilabbaszade
 [linkedin]: https://www.linkedin.com/in/ramil-abbaszada-07316a180/
-[medium]: https://medium.com/@abbasovramil65
+[medium]: https://medium.com/@ramilabbaszade
 [behance]: https://www.behance.net/ramilabbaszada
