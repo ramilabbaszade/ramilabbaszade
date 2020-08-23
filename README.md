@@ -57,7 +57,6 @@
 - [Github profilinizi necə dizayn edə bilərsiniz?](https://medium.com/@ramilabbaszade/github-profilinizi-nec%C9%99-dizayn-ed%C9%99-bil%C9%99rsiniz-e689a0d1c420)
 - [CSS’ə yeni başlayanlar üçün 6 ipucu](https://medium.com/@ramilabbaszade/css%C9%99-yeni-ba%C5%9Flayanlar-%C3%BC%C3%A7%C3%BCn-6-ipucu-79e5963abf88)
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 <!-- BLOG-POST-LIST:END -->
 
 ---
