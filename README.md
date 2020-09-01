@@ -1,4 +1,4 @@
-### Hi there, I'm Ramil - [website] 👋
+### Hi there, I'm Ramil 👋
 
 ## I'm a Junior Developer!
 - 🔭 I’m currently working on my startup!
