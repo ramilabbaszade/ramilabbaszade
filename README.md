@@ -1,6 +1,6 @@
 ### Hi there, I'm Ramil 👋
 
-## I'm a Junior Developer!
+## Welcome to my board!
 - 🔭 I’m currently working on my startup!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
