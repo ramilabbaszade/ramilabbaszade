@@ -3,8 +3,8 @@
 ## Welcome to my board!
 - 🔭 I’m currently working on my startup!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love runing and playing guitar
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love running and playing guitar
 
 ### Connect with me:
 
