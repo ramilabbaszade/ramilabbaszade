@@ -1,9 +1,6 @@
 ### Hi there, I'm Ramil 👋
 
 ## Welcome to my board!
-- 🔭 I’m currently working on my startup!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
