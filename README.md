@@ -5,9 +5,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/behance.svg" />][behance]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
@@ -28,8 +26,6 @@
 
 [website]: https://github.com/ramilabbaszade
 [twitter]: https://twitter.com/abbaszadaramil
-[facebook]: https://www.facebook.com/ramil.abbaszade.923
-[instagram]: https://instagram.com/ramilabbaszade
 [linkedin]: https://www.linkedin.com/in/ramil-abbaszada-07316a180/
 [medium]: https://medium.com/@ramilabbaszade
 [behance]: https://www.behance.net/ramilabbaszada
