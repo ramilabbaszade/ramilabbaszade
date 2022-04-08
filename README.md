@@ -22,8 +22,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
----
-
 [website]: https://github.com/ramilabbaszade
 [twitter]: https://twitter.com/abbaszadaramil
 [linkedin]: https://www.linkedin.com/in/ramil-abbaszada-07316a180/
