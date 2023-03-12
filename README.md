@@ -23,6 +23,6 @@
 
 [website]: https://github.com/ramilabbaszade
 [twitter]: https://twitter.com/abbaszadaramil
-[linkedin]: https://www.linkedin.com/in/ramil-abbaszada-07316a180/
+[linkedin]: https://www.linkedin.com/in/ramilabbaszada/
 [medium]: https://medium.com/@ramilabbaszade
 [behance]: https://www.behance.net/ramilabbaszada
